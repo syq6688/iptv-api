@@ -11,6 +11,13 @@ https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整�
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://itv.aptv.app/china-iptv/sddx.m3u
+https://itv.aptv.app/china-iptv/sdyd.m3u
+https://itv.aptv.app/china-iptv/zgyd.m3u
+https://itv.aptv.app/china-iptv/sdlt.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://tv.iill.top/m3u/Gather
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://m3u.ibert.me/fmml_ipv6.m3u
 https://m3u.ibert.me/txt/fmml_ipv6.txt
 https://m3u.ibert.me/fmml_itv.m3u
