@@ -1,24 +1,8 @@
 🕘️更新时间,#genre#
-2025-06-15 06:24:42,http://175.152.138.89:6066/udp/239.93.0.184:5140
+2025-06-15 18:26:46,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://175.152.138.89:6066/udp/239.93.0.184:5140
-CCTV-2,http://175.152.138.89:6066/udp/239.93.1.23:6000
-CCTV-4,http://175.152.138.89:6066/udp/239.93.1.105:5140
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-5,http://175.152.138.89:6066/udp/239.93.42.37:5140
-CCTV-5+,http://175.152.138.89:6066/udp/239.93.1.36:8004
-CCTV-7,http://175.152.138.89:6066/udp/239.93.1.67:5140
-CCTV-8,http://175.152.138.89:6066/udp/239.93.42.39:5140
-CCTV-8,http://121.17.146.34:50003/hls/8/index.m3u8
-CCTV-9,http://175.152.138.89:6066/udp/239.93.1.24:5140
-CCTV-10,http://175.152.138.89:6066/udp/239.93.1.28:5140
-CCTV-11,http://175.152.138.89:6066/udp/239.93.0.102:5140
-CCTV-12,http://175.152.138.89:6066/udp/239.93.1.30:8124
-CCTV-13,http://175.152.138.89:6066/udp/239.93.0.66:5140
-CCTV-14,http://175.152.138.89:6066/udp/239.93.1.29:6000
-CCTV-15,http://175.152.138.89:6066/udp/239.93.0.103:5140
-CCTV-17,http://175.152.138.89:6066/udp/239.93.0.92:5140
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
@@ -27,22 +11,17 @@ CCTV-17,http://175.152.138.89:6066/udp/239.93.0.92:5140
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-深圳卫视,http://116.128.242.83:9901/tsfile/live/1006_1.m3u8
-西藏卫视,http://fn.tmde.top:35455/nptv/xizang.m3u8
-云南卫视,http://fn.tmde.top:35455/nptv/yunnan.m3u8
+四川卫视,http://121.17.146.34:50003/hls/48/index.m3u8
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 
 ☘️山东频道,#genre#
-山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&amp;amp;playlive=1&amp;amp;authid=0
 济南新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
 青州电视台生活,http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
 青州综合,rtmp://sdqz.chinashadt.com:2036/live/stream:1.stream
-青州综合,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 青州综合,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8?shandd
+青州综合,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 青州综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=47cbef&tk=6949f8ce7202
 济宁综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=ae6d14&tk=6949f8ce7202
 东营综合,http://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
@@ -54,15 +33,14 @@ CCTV-17,http://175.152.138.89:6066/udp/239.93.0.92:5140
 枣庄公共,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=003b60&tk=6949f8ce7202
 枣庄教育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=64e23d&tk=6949f8ce7202
 烟台新闻综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8
-烟台新闻综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8?shandd
 烟台新闻综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e51753&tk=6949f8ce7202
 烟台经济科技,http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8
 烟台经济科技,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=163713&tk=6949f8ce7202
 菏泽影,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8?shandd
 菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
 菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8
-菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 菏泽经济生活,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
+菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 
 🎬电影频道,#genre#
 经典电影,http://lxajh.top/tv/douyu.php?id=74374
@@ -70,3 +48,6 @@ CCTV-17,http://175.152.138.89:6066/udp/239.93.0.92:5140
 🪁动画频道,#genre#
 蜡笔小新,http://home.kuaidi521.com:35455/bilibili/30837590
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
+
+🏛经典剧场,#genre#
+西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
